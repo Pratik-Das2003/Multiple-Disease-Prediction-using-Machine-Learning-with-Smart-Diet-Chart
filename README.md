@@ -6,8 +6,8 @@
 
 * 🧬 *Multi-Disease Prediction*: Predicts conditions such as diabetes, heart disease, and more using trained ML models.
 * 🍽 *Smart Diet Chart*: Generates personalized diet recommendations based on predicted disease and user inputs.
-* ⚙ *ML-Driven Backend: Developed using **Flask*, integrating multiple machine learning models for accurate analysis.
-* 💻 *Interactive Frontend: Built with **HTML, **CSS, and **JavaScript* for an intuitive user experience.
+* ⚙ *ML-Driven Backend*: Developed using Flask, integrating multiple machine learning models for accurate analysis.
+* 💻 *Interactive Frontend*: Built with HTML, CSS, and JavaScript for an intuitive user experience.
 * 📊 *User-Friendly Interface*: Clean and responsive design ensuring smooth navigation and accessibility.
 
 ### 🎯 Objectives:
